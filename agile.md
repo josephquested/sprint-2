@@ -1,0 +1,8 @@
+Thoughts on Scrum: 
+
+For the past year I have been a student at the Hagley Community College "School of Apps". It's sort of a school within a school, focusing on iOS and Android App design. It's a fairly self directed learning environment, but when group work takes place we use an agile based system. It's sort of SCRUM-ish. We use many of Scrum's key features, like a product backlog, the roles system, sprints and standup meetings. However, because the projects we're working on are fairly low-stakes and very small in scope, we don't use a burn chart or some of the more advanced features. 
+
+While it has given me a fairly good introduction to the agile way of doing things, quite a lot of it was quite theoretical. For instance, there was a lot of roleplaying. For one sprint I would be a programmer, doing my thing, working through the backlog items, then the next week I would be "playing" the product owner.
+I have actually watched a couple of these videos before, earlier this year! It was good to see them again though, and get a bit of a refresher. We also read through the segments of the SCRUM book by Dr Jeff Sutherland, which I still have a copy of. I might pick it back up again this week and have another go at it, because there are still big gaps in my knowledge. I'm interested in learning more about the about the burn chart for example, because we never really dived into time estimations in my course. 
+
+All in all, I really like the Scrum system and agile development as a whole. However, I personally never worked in a waterfall type environment, so I'm not exactly impartial, because Scrum is really the only project methodology I've ever worked with. A child of the modern age, I guess. 
