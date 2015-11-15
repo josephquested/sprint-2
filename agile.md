@@ -6,3 +6,14 @@ While it has given me a fairly good introduction to the agile way of doing thing
 I have actually watched a couple of these videos before, earlier this year! It was good to see them again though, and get a bit of a refresher. We also read through the segments of the SCRUM book by Dr Jeff Sutherland, which I still have a copy of. I might pick it back up again this week and have another go at it, because there are still big gaps in my knowledge. I'm interested in learning more about the about the burn chart for example, because we never really dived into time estimations in my course. 
 
 All in all, I really like the Scrum system and agile development as a whole. However, I personally never worked in a waterfall type environment, so I'm not exactly impartial, because Scrum is really the only project methodology I've ever worked with. A child of the modern age, I guess. 
+
+Pair Programming:
+
+If I'm being honest, pair programming is one of the things that least excites me when I think about my future career as a web developer. It's not that I have difficulty communicating with people effectively, or that I fear relinquishing control.. Those things are both great skills to learn and practice, and I'm sure that once I start doing it I will actually really ENJOY pair programming. My biggest concern is more that pair programming represents a cultural shift in a direction I don't particularly relish.
+
+I'm an introvert by nature, but I have spent my entire life so far doing very extroverted work. ie: hospitality and retail.
+Now, don't get me wrong here, I enjoy socialisation and the joys of human interaction - a lot. But I think that we as a society are progressively becoming less and less tolerant towards the introverted mentality. Before the 1900s, it was perfectly respectable to prefer quiet, solitary thought and action. Introverts were seen as somewhat socially stunted, sure, but they were respected for their cerebral and contemplative nature. But post 1900, western society as a whole started to grow increasingly hostile to those who prefer solo work and thought. More and more offices went open plan, and although there are many benefits to an open and collaborative environment, it isn't always ideal or conductive for the more introverted amongst us. Society is so hyper-extroverted now that people who prefer solitude are labelled "loners", and their mental health is even questioned. 
+
+I'm ranting a little. My point is that one of the things that really gravitated me towards programming was its introspective and solitary nature. My mental image of a coder, tucked away somewhere, quietly working their way through problems is significantly less romantic when there are two people at the machine. But, c'est la vie, I'll just get over it... Or time travel back to an age when somebody who wants to be alone with their thoughts can be seen as "wise" not "weird".
+
+- xoxo Joseph
